@@ -80,11 +80,11 @@ PASOS A SEGUIR
         Captura de pantalla
         ![1](https://github.com/javitopoque/ProyectoFinal/assets/113144412/66c1cb0e-d20a-467d-852b-ade62ad02578)
 
-    • Para listar a todos lo usuarios: GET ‘/usuarios’ • Para listar un
+    • Para listar a todos lo usuarios: GET ‘/usuarios’ 
         Captura de pantalla
         ![2](https://github.com/javitopoque/ProyectoFinal/assets/113144412/c9c8ba6c-853f-428a-b07e-747bde5e9cbd)
         
-    • Usuario en especifico GET ‘/usuarios/:id_usuario’
+    • Para listar unsuario en especifico GET ‘/usuarios/:id_usuario’
         Captura de pantalla
         ![4](https://github.com/javitopoque/ProyectoFinal/assets/113144412/05e86dcb-1be9-42f0-a4b3-672be893e1c5)
 
